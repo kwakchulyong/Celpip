@@ -18,12 +18,14 @@ function countWords(s){
   return s.split(' ').filter(function(str){return str!="";}).length;
 }
 </script>
-  <textarea style="width:100%; height:auto;" 
+<body>
+<textarea style="width:100%; height:auto;" 
   onclick="this.select()" onfocus="this.select()" 
   id="userTxt" rows="20" cols="60"  
   onkeyup="changeCount();">
   </textarea>
   <br/>
-  <span id="count">0</span>
+<span id="count">0</span>
+</body>
 </code></pre>
 
