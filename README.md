@@ -1,11 +1,10 @@
 # Celpip
 <h1>Prepare for Celpip Test</h1>
 <h2>Speaking</h2>
--Environment
-
 ![Speaking Test Form](https://github.com/kwakchulyong/Celpip/blob/master/screenshot/speakingtestform.png)
-<h3>JavaScript, HTML and CSS</h3>
-<h3>Data is stored in Jason format(js/questions.js)</h3>
+<h3>-Environment</h3>
+<h4>JavaScript, HTML and CSS</h4>
+<h4>Data is stored in Jason format(js/questions.js)</h4>
 <h2>Count Words</h2>
 <pre><code>
 <body>
