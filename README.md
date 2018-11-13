@@ -4,8 +4,6 @@
 
 ![Speaking Test Form](https://github.com/kwakchulyong/Celpip/blob/master/screenshot/speakingtestform.png)
 
-http://meanpain.dothome.co.kr/celpip/speakingTest/
-
 <h3>-Environment</h3>
 <h4>JavaScript, HTML and CSS</h4>
 <h4>Data is stored in Jason format(js/questions.js)</h4>
